@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yukatapangolin
 
-- 📫 How to reach me 
+- 📫 How to reach me:
 
 * glyptodontid [at] tutanota [dot] com
 
