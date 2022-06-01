@@ -2,8 +2,9 @@
 
 - 📫 How to reach me 
 
-glyptodontid [at] tutanota [dot] com
-kimonopangolin [at] proton [dot] me
+* glyptodontid [at] tutanota [dot] com
+
+* kimonopangolin [at] proton [dot] me
 
 <!---
 yukatapangolin/yukatapangolin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
